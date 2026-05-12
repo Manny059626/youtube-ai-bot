@@ -1,0 +1,59 @@
+[Opening Scene: Upbeat background music with animated tech graphics]
+
+Host (smiling):  
+"Hey everyone! Welcome back to the channel. If you're new to AI and wondering where to start, you're in the right place. Today, we're diving into the **Best AI Tools for Beginners** that are super easy to use and can help you create amazing projects without needing to be a tech genius. Let’s get started!"
+
+[Cut to Title Screen: "Best AI Tools for Beginners"]
+
+---
+
+[Scene 1: Host sitting at a desk with a laptop]
+
+Host:  
+"Artificial Intelligence sounds intimidating, but thanks to these beginner-friendly tools, you can explore AI in a fun and practical way. Whether you want to create art, automate tasks, or even write better content, these tools have you covered."
+
+---
+
+[Scene 2: Screen recording showcasing tool #1]
+
+Host (voiceover):  
+"Number one: **Canva’s AI Features**. Canva is already popular for graphic design, and now it has integrated AI tools like Magic Write for text generation and Background Remover for images. It’s perfect if you want to create social media posts, presentations, or logos effortlessly."
+
+[Quick demo showing Canva’s Magic Write in action]
+
+---
+
+[Scene 3: Screen recording showcasing tool #2]
+
+Host (voiceover):  
+"Number two: **ChatGPT by OpenAI**. Whether you're brainstorming ideas, writing scripts, or even coding, ChatGPT can assist you with natural language generation. Just type your request and watch it generate detailed, useful responses in seconds."
+
+---
+
+[Scene 4: Screen recording showcasing tool #3]
+
+Host (voiceover):  
+"Number three: **Runway ML**. This one is great for creatives who want to experiment with AI-driven video editing and image generation. No prior experience needed, and it comes with a user-friendly interface to explore AI-powered effects."
+
+---
+
+[Scene 5: Screen recording showcasing tool #4]
+
+Host (voiceover):  
+"Number four: **Grammarly**. It’s not just spell-checking anymore—Grammarly uses AI to help you write clearer and more engaging text, making it an essential tool for anyone writing emails, essays, or even YouTube scripts like this one."
+
+---
+
+[Scene 6: Host back on camera]
+
+Host:  
+"And those are my top beginner-friendly AI tools to get you started today. Which one are you most excited to try? Let me know in the comments below!"
+
+[Call to Action Screen]  
+"Don’t forget to like, subscribe, and hit the bell for more tech tips and AI tutorials. Thanks for watching, and I’ll see you in the next video!"
+
+[Ending Scene: Channel logo animation with upbeat music]
+
+---
+
+[Optional: Links in video description to each tool mentioned]
