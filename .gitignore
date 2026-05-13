@@ -1,2 +1,7 @@
 .env
+client_secret.json
+token.pkl
+voiceover.mp3
+final_short.mp4
+short.MOV
 __pycache__/
